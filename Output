@@ -1,0 +1,10 @@
+Please enter enter the mark (0-100) for student 1 :
+20
+Please enter enter the mark (0-100) for student 2 :
+65
+Please enter enter the mark (0-100) for student 3 :
+-5
+Invalid input, please enter again!
+Please enter enter the mark (0-100) for student 3 :
+40
+The average mark is : 41.67
